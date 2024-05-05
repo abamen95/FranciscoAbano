@@ -1,1 +1,2 @@
-Proyecto para el control de pagos y asistencias en un colegio 
+Nueva version sobre el control de pagos y asistencias
+Version 2
