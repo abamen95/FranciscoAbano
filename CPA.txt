@@ -1,0 +1,1 @@
+Proyecto para el control de pagos y asistencias en un colegio 
